@@ -9,7 +9,7 @@
 <p align="left">
 
   
-<a href="https://twitter.com/@amald2428" target="blank"><img align="center" 
+<a href="https://twitter.com/@i_am_amal__" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 generator/master/src/images/icons/Social/twitter.svg" alt="@amald2428" height="30" width="40" /></a>
  <!-- <a href="https://twitter.com/@amald2428" target="blank"><img src="https://x.com/i_am_amal__?t=fFVdkgqIwm2eY6WQg11iaw&s=09" alt="@amald2428" /></a>-->
@@ -18,9 +18,7 @@ generator/master/src/images/icons/Social/twitter.svg" alt="@amald2428" height="3
   </p>
 
 
-<a href="https://twitter.com/@amald2428" target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
-generator/master/src/images/icons/Social/twitter.svg" alt="@amald2428" height="30" width="40" /></a>
+
 
 - 🔭 I’m currently working on **Honey Bee Dating App**
 
