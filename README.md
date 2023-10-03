@@ -4,18 +4,13 @@
 <h3 align="center">" Enthusiastic self-learned mobile app developer hailing from Kerala, India. Crafting intuitive and engaging experiences for users. Always eager to push boundaries and create innovative solutions. Let's build something extraordinary together! 📱✨ "</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amal2428&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-amal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=i_am_amal&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-amal" /> </p>
 
-<p align="left">
 
   
-<a href="https://twitter.com/@i_am_amal__" target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
-generator/master/src/images/icons/Social/twitter.svg" alt="@amald2428" height="30" width="40" /></a>
- <!-- <a href="https://twitter.com/@amald2428" target="blank"><img src="https://x.com/i_am_amal__?t=fFVdkgqIwm2eY6WQg11iaw&s=09" alt="@amald2428" /></a>-->
+<p align="left"> <a href="https://twitter.com/@i_am_amal__" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_amal__?logo=twitter&style=for-the-badge" alt="@i_am_amal__" /></a> </p>
   
   
-  </p>
 
 
 
