@@ -1,28 +1,12 @@
-<!--### Hi there 👋-->
-
-<!--
-**i-am-amal/i-am-amal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![MasterHead](https://camo.githubusercontent.com/7837f4bc8d5b8cf769702bc69957eee0511490a8b63cee82d8a160692ceb9d55/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a766b6649346e464e6865433576307037777a447447672e676966)
 <h1 align="center">Hi 👋, I'm A M A L</h1>
 <h3 align="center">" Enthusiastic self-learned mobile app developer hailing from Kerala, India. Crafting intuitive and engaging experiences for users. Always eager to push boundaries and create innovative solutions. Let's build something extraordinary together! 📱✨ "</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amal2428&label=Profile%20views&color=0e75b6&style=flat" alt="amal2428" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amal2428&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-amal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@amald2428" target="blank"><img src="https://img.shields.io/twitter/follow/amald2428?logo=twitter&style=for-the-badge" alt="@amald2428" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@amald2428" target="blank"><img src="https://x.com/i_am_amal__?t=fFVdkgqIwm2eY6WQg11iaw&s=09" alt="@amald2428" /></a> </p>
 
 - 🔭 I’m currently working on **Honey Bee Dating App**
 
