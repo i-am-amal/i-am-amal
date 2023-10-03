@@ -4,7 +4,7 @@
 <h3 align="center">" Enthusiastic self-learned mobile app developer hailing from Kerala, India. Crafting intuitive and engaging experiences for users. Always eager to push boundaries and create innovative solutions. Let's build something extraordinary together! 📱✨ "</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i_am_amal&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-amal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-amal&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-amal" /> </p>
 
 
   
