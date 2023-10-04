@@ -37,8 +37,25 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=i-am-amal&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-am-amal&theme=midnight-purple&hide_border=false)<br/>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-amal&locale=en&hide_title=false&layout=compact&langs_count=9&cardwidth=500&theme=midnight-purple&hide_border=false&order=2&private=true&private=true" height="250" alt="languages graph"  />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=i-am-amal&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=i-am-amal&icon=1&color=12)](https://visitcount.itsvg.in)
+
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-amal&exclude_repo=github-readme-stats,i-am-amal.github.io&show_icons=true&locale=en&layout=compact" alt="i-am-amal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-amal&show_icons=true&locale=en" alt="i-am-amal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amal&" alt="i-am-amal" /></p>
+
+-->
