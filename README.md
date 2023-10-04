@@ -18,17 +18,17 @@
 
 
 
-- 🔭 I’m currently working on **Honey Bee Dating App**
+- 🔭 Currently crafting the buzz with the Honey Bee Dating App.
 
-- 🌱 I’m currently learning **Domain-Driven Design (DDD) Architecture**
+- 🌱 Exploring the world of Domain-Driven Design (DDD) Architecture.
 
-- 👨‍💻 All of my projects are available at [https://github.com/i-am-amal]
+- 👨‍💻 Dive into my projects: [Explore on GitHub](https://github.com/i-am-amal).
 
-- 💬 Ask me about **Dart, Flutter, Hive, Rest API, Bloc, Firebase, Sqflite**
+- 💬 Passionate about Dart, Flutter, Hive, Rest API, Bloc, Firebase, Sqflite.
 
-- 📫 How to reach me **amald1011@gmail.com**
+- 📫 Reach out to me at amald1011@gmail.com.
 
-- ⚡ Fun fact **I looking very Handsome**
+- ⚡️ Fun fact: They say I'm quite the looker! 👀💫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
