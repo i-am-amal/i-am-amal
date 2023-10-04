@@ -51,10 +51,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=i-am-amal&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
----
+<!--
 [![](https://visitcount.itsvg.in/api?id=i-am-amal&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-amal&exclude_repo=github-readme-stats,i-am-amal.github.io&show_icons=true&locale=en&layout=compact" alt="i-am-amal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-amal&show_icons=true&locale=en" alt="i-am-amal" /></p>
