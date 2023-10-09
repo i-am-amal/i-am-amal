@@ -18,7 +18,7 @@
 
 
 
-🌟 Currently buzzing with excitement while crafting a brand new social networking platform focused on meaningful connections.
+- 🌟 Currently buzzing with excitement while crafting a brand new social networking platform focused on meaningful connections.
 
 - 🌱 Exploring the world of Domain-Driven Design (DDD) Architecture.
 
