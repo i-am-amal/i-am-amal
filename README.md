@@ -33,8 +33,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@i_am_amal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@i_am_amal__" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/amal-d-301831259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iam-amal" height="30" width="40" /></a>
-<a href="https://instagram.com/_i_am.amal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam-amal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amal-d-301831259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal-d-301831259" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:19641228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19641228" height="30" width="40" /></a>
+<a href="https://instagram.com/_i_am.amal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_i_am.amal_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/i_am_amal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_am_amal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
